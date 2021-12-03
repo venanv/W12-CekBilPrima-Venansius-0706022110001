@@ -28,7 +28,7 @@ namespace CekBilPrima
             }
             if (count > 2)
             {
-                Console.Write("Bukan bilangan Prima\n");
+                Console.Write("Bukan bilangan Prima!\n");
             }
             else
             {
